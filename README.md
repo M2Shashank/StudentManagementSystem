@@ -15,8 +15,5 @@ This project is a complete Student Management System implemented in C++ using Ob
 
 ## Getting Started
 
-### Prerequisites
 
-- C++ Compiler (e.g., GCC, Clang)
-- C++11 or later
 
