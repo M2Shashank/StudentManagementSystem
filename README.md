@@ -13,7 +13,3 @@ This project is a complete Student Management System implemented in C++ using Ob
 - **Delete Student**: Remove student records from the system.
 - **Efficient Data Management**: Utilizes OOP principles for efficient memory usage and maintainable code.
 
-## Getting Started
-
-
-
